@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM docker.io/centos:centos6
 
 MAINTAINER Chenmc "maochuan.chen@e-vada.com"
 
