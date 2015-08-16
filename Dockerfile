@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTAINER Chenmc <maochuan.chen@e-vada.com>
+MAINTAINER Chenmc "maochuan.chen@e-vada.com"
 
 RUN yum install -y wget
 
